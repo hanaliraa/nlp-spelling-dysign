@@ -1,21 +1,21 @@
 id,sentence,sentence length,phonetic error,unstressed vowel,adding extra e,doubling consonant
 sample,Tbe beauttiful dacks swame in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,0,1,0,1,1
 30_1,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,0,0,0,0,0
-30_5,The fish is not happy because it is in a small fish bowl not in an ocean and it's place is in ocean.,23,0,2,0,0
-32_3,cat's are predetors they drinkmilk and is afraid of water. Just like cats dogs are predetors execpt that they drinkwater. There are many types of parrots talking parrots is an example ofaparrot,32,0,0,1,0
-33_3,The dog is happy.The kitten is sleeping. The fish is in the bowl. The parrot has a long beak. There is a house at the corner. There are footprints of the dog near the parrot,35,4,0,0,1
-34-nt_1,The dog is eager to eat Food. The cat is in a deep sleep. The bird is singing happily. The fish is swimming in the water. The dog looks excited to chew on the bone and is wagging his tail.,40,2,1,0,0
-35-nt_3,The bird is squaking happily on a stick. The fish is swimming happily it's water tank. The cat's sleeping in it's comfy bed. The dog looks exited to play with his dog bone and to eat his dog food.,39,3,2,0,0
+30_5,The fish is not happy because it is in a small fish bowl not in an ocean and it's place is in ocean.,2,0,2,0,0
+32_3,cat's are predetors they drinkmilk and is afraid of water. Just like cats dogs are predetors execpt that they drinkwater. There are many types of parrots talking parrots is an example ofaparrot,7,0,0,1,0
+33_3,The dog is happy.The kitten is sleeping. The fish is in the bowl. The parrot has a long beak. There is a house at the corner. There are footprints of the dog near the parrot,10,4,0,0,1
+34-nt_1,The dog is eager to eat Food. The cat is in a deep sleep. The bird is singing happily. The fish is swimming in the water. The dog looks excited to chew on the bone and is wagging his tail.,15,2,1,0,0
+35-nt_3,The bird is squaking happily on a stick. The fish is swimming happily it's water tank. The cat's sleeping in it's comfy bed. The dog looks exited to play with his dog bone and to eat his dog food.,14,3,2,0,0
 DIY001,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quiet often the ducks would jump out of the water.,0,0,0,0,0
-DIY002,The beautiful ducks swam in the big blue lake. their feathers were very pretty and quite often the ducks would jump outof the water.,24,0,0,0,0
+DIY002,The beautiful ducks swam in the big blue lake. their feathers were very pretty and quite often the ducks would jump outof the water.,1,0,0,0,0
 MAR001,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out ot the water. ,0,0,0,0,0
 MAR002,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out of the water. ,0,0,0,0,0
 MAR003.2,The beautful ducks swam in the big blue lake. Thir feathers were very pretty and quite often the ducks would jump out of the water.,0,0,0,0,0
-MAR003,The beautiful ducks sawm inth big bluelake. Thir feathers were uery pretty and guite often the ducks would jump out of the water.,23,0,0,0,0
+MAR003,The beautiful ducks sawm inth big bluelake. Thir feathers were uery pretty and guite often the ducks would jump out of the water.,2,0,0,0,0
 MAR011,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,0,0,0,0,0
-MAR012,The beautiful ducks swam in the big lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,24,0,0,0,0
-other-MAR007,My favourite game is football it is a game of 11 to 12 players in in every player had to be active to kick the ball.In the teem there would be a goal keeper who would have to defend the goal by the other team's player and there would be a defender who would have to defend the area were the goal might be and if the others team player gets to their feild the defender. should kick the ball out of their feild and their would be a striker who would have to go to the other teams feild and kick the ball to the others teams goal and so then the team will get point and the team who has the greater points would win.,127,1,4,0,0
+MAR012,The beautiful ducks swam in the big lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,1,0,0,0,0
+other-MAR007,My favourite game is football it is a game of 11 to 12 players in in every player had to be active to kick the ball.In the teem there would be a goal keeper who would have to defend the goal by the other team's player and there would be a defender who would have to defend the area were the goal might be and if the others team player gets to their feild the defender. should kick the ball out of their feild and their would be a striker who would have to go to the other teams feild and kick the ball to the others teams goal and so then the team will get point and the team who has the greater points would win.,102,1,4,0,0
 TMS001,The beautiful ducks swam in the big blue lake their feathers were very pretty and quite often the ducks would jump out of the water,0,0,0,0,0
-TMS002,ThebeautiFulducks swaminthebigblue lake inthebigblue lake. The irFeat,7,1,0,1,0
+TMS002,ThebeautiFulducks swaminthebigblue lake inthebigblue lake. The irFeat,18,1,0,1,0
 TMS003,The beautiful ducks swam in the big blue lake. Their feathers were very pretty and quite often the ducks would jump out of the water.,0,0,0,0,0
 TMS004,The beautiful  ducks swam in the  big  blue  lake . Their feathers  were  very pretty and quite often the ducks would jump out of the water.,0,0,0,0,0
