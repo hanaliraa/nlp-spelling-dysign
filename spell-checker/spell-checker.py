@@ -5,7 +5,7 @@ import pandas as pd
 #functions
 def dataset(folder):
     s_list = list()
-    tgt_file = 'C:/Users/user/OneDrive/University/08. Spring2023/NLP/Project/nlp-spelling-dysign/data.csv'
+    tgt_file = 'D:\OneDrive - Habib University\Kaavish\\nlp-spelling-dysign/data.csv'
     for x in os.listdir(folder):
 
         with open(folder+x, mode='r', newline='\n') as file:
@@ -18,8 +18,8 @@ def dataset(folder):
             writer.writerow(x)
 def scoring(df):
     print(df['sentence'])
-folder1 = 'C:/Users/user/OneDrive/University/08. Spring2023/NLP/Project/nlp-spelling-dysign/data-transcibed-copy/'
-data = 'C:/Users/user/OneDrive/University/08. Spring2023/NLP/Project/nlp-spelling-dysign/data.csv'
+folder1 = 'D:\OneDrive - Habib University\Kaavish\\nlp-spelling-dysign\Data\data_transcibed/'
+data = 'D:\OneDrive - Habib University\Kaavish\\nlp-spelling-dysign/data.csv'
 
 # dataset(folder1)   #creating a csv
 word_dict = {
